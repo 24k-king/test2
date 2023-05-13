@@ -1,0 +1,6 @@
+[remote "origin"]
+	url = git@github.com:24k-king/https://github.com/24k-king/test2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "origin2"]
+	url = https://github.com/24k-king/test2.git
+	fetch = +refs/heads/*:refs/remotes/origin2/*
